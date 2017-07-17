@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class WeatherAPIScript : MonoBehaviour {
 
-    private string apiKey = "7acdfbedc7d0d273f379e76ddda86a38";
+    private string apiKey = "NO..";
     // Use this for initialization
     public string city, weatherDescription;
     public float temp, tempMin, tempMax, rain, wind, clouds;
